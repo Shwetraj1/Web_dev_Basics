@@ -1,7 +1,7 @@
-# CodSoft Web Development Internship Tasks
+# Web Development 
 
 # Overview
-Welcome to my CodSoft Web Development Internship projects repository! During this internship, I worked on three main projects to enhance my web development skills. These projects are:
+Welcome to my repo. I worked on three main projects to kickstart my web development skills as a beginner. These projects are:
 
 Calculator
 Portfolio
@@ -23,7 +23,7 @@ HTML5
 CSS3
 JavaScript
 Usage:
-To use the calculator, simply input the numbers and operators, then press the equals button to get the result. The clear button resets the input.
+To use the calculator, input the numbers and operators, then press the equals button to get the result. The clear button resets the input.
 
 ## 2. Portfolio
 ### Objective: 
@@ -64,4 +64,4 @@ Usage:
 Scroll through the landing page to learn more about the product/service. Use the contact section to send inquiries.
 
 # Conclusion
-These projects demonstrate my ability to create functional and aesthetically pleasing web applications. I hope you find them as exciting and educational as I did while developing them. If you have any questions or feedback, feel free to reach out!
+These projects demonstrate my journey to create functional and aesthetically pleasing web applications from 0. I hope you find them as exciting and educational as I did while developing them. If you have any questions or feedback, feel free to reach out!
